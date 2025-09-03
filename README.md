@@ -65,4 +65,3 @@ Ir a [Glosario](Glosario.md)
 - Oriana Vásquez
 - ..::Laura Echeverri::..
 - \_::..Jesús Paredes..::
-- ..:: Sara Colmenares Hernández::..
