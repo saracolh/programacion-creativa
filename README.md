@@ -64,4 +64,4 @@ Ir a [Glosario](Glosario.md)
 - ...Paula Alejandra Salazar ...
 - Oriana Vásquez
 - ..::Laura Echeverri::..
-- ::..Jesús Paredes..::
+- _::..Jesús Paredes..::_
